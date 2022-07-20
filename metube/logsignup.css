@@ -1,0 +1,34 @@
+body{
+    color: white;
+    background-image: linear-gradient(#212529,#ddd);
+}
+
+
+a{
+    color: rgb(184, 155, 155);
+}
+p{
+    margin: 0 40%;
+}
+
+.logsignform{
+    margin: 0 40%;
+}
+
+.subbutton{
+    height: 33px;
+    width: 100px;
+    font-size: large;
+    margin: 25px 0;
+    
+}
+
+.subbutton:hover{
+    background: #b90c0c;
+    cursor: pointer;
+}
+
+
+input, .subbutton{
+    border: 3px solid black;
+}

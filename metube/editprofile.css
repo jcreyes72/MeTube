@@ -1,0 +1,28 @@
+body{
+    color: white;
+    background-image: linear-gradient(#212529,#ddd);
+    height: 100%;
+}
+
+textarea, input{
+    border: solid 2px black;
+}
+
+
+.subbutton{
+    height: 33px;
+    width: 100px;
+    font-size: small;
+    margin: 25px 0;
+}
+
+.subbutton:hover{
+    background: #b90c0c;
+    cursor: pointer;
+}
+
+.changebio, .changepassword{
+    float: left;
+    display:inline;
+    width:49%;
+}
